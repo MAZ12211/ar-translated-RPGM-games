@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 21, Page 1, Line 1, Pos (54,48)
+msgid "Oh hi."
+msgstr "اوه مرحباً."
+
+#. ID 21, Page 1, Line 2, Pos (54,48)
+msgid "My name is Rick, I like exploring caves."
+msgstr "أدعى ريك، أحب استكشاف الكهوف."
+
+#. ID 21, Page 1, Line 3, Pos (54,48)
+msgid "I like friction."
+msgstr "أحب الإحتكاك."
+
+#. ID 21, Page 1, Line 4, Pos (54,48)
+msgid "Oh, and I'm a sensitive guy as well."
+msgstr "اوه، وأنا شخصٌ حساسٌ أيضاً."
+
+#. ID 21, Page 1, Line 5, Pos (54,48)
+msgid "..."
+msgstr "..."
+
+#. ID 21, Page 1, Line 6, Pos (54,48)
+msgid "But you already knew all that didn't you..."
+msgstr "لكنكِ تعلمين كل ذلك بالفعل صحيح؟..."
+
+#. ID 21, Page 1, Line 8, Pos (54,48)
+msgid "I hope to see you soon... Dont run too far..."
+msgstr "آمل أن أراكِ قريباً... لا تكردي بعيداً..."
+
+#. ID 21, Page 1, Line 9, Pos (54,48)
+msgid "I'll be waiting..."
+msgstr "سأكون في انتظار..."
+

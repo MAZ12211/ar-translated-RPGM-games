@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 1, Pos (22,50)
+#. ID 27, Page 1, Line 1, Pos (11,74)
+#. ID 28, Page 1, Line 1, Pos (12,74)
+#. ID 29, Page 1, Line 1, Pos (12,73)
+#. ID 30, Page 1, Line 1, Pos (13,75)
+msgid "You can't grip it, it's to heavy."
+msgstr "لا يمكنكِ حمل الصخور من ثقلهم."
+

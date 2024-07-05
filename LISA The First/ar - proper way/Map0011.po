@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (8,6)
+msgid "Don't look at me..."
+msgstr "لا تنظري إلي..."
+
+#. ID 2, Page 1, Line 1, Pos (29,6)
+msgid "I don't want to work right now."
+msgstr "لا أريد العمل الآن."
+
+#. ID 2, Page 2, Line 1, Pos (29,6)
+msgid "Ya I'm the bartender, what of it?"
+msgstr "نعم أنا النادل، ماذا في ذلك؟"
+
+#. ID 2, Page 2, Line 2, Pos (29,6)
+msgid "You want rum? Fuck it, here."
+msgstr "تريدين الرم؟ أياً يكن، إليكِ البعض."
+
+#. ID 2, Page 2, Line 4, Pos (29,6)
+msgid "You got Rum!"
+msgstr "حصلتِ على الرم!"
+

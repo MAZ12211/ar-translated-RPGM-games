@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 5, Pos (2,2)
+msgid "You really don't get it do you?"
+msgstr "ألم تفهمي حتى الآن؟"
+
+#. ID 1, Page 1, Line 7, Pos (2,2)
+msgid "You really thought you could forget?"
+msgstr "هل ظننتي حقاً أنه يمكنكِ نسياني فحسب؟"
+
+#. ID 1, Page 1, Line 9, Pos (2,2)
+msgid "Why are you trying so hard?..."
+msgstr "لما تحاولين في فعل ذلك بشدة؟..."
+
+#. ID 1, Page 1, Line 11, Pos (2,2)
+#. ID 1, Page 1, Line 20, Pos (2,2)
+msgid "Accept it..."
+msgstr "تقبلي الأمر..."
+
+#. ID 1, Page 1, Line 13, Pos (2,2)
+msgid "You can't fight something that already happened..."
+msgstr "لا يمكنكي مواجهة ما حدث بالفعل..."
+
+#. ID 1, Page 1, Line 16, Pos (2,2)
+msgid "There is no understanding, no purpose..."
+msgstr "لا يوجد تفاهم، لا يوجد فائدة..."
+
+#. ID 1, Page 1, Line 18, Pos (2,2)
+msgid "There is only life, and this one is yours..."
+msgstr "ثمة حياة واحدة فقط، وهذه هي لكِ..."
+
+#. ID 1, Page 1, Line 22, Pos (2,2)
+msgid "I'm here to stay."
+msgstr "أنا هنا باقٍ."
+
+#. ID 2, Page 1, Line 1, Pos (53,12)
+msgid "You got a VHS."
+msgstr "حصلتِ على شريط فيديو."
+

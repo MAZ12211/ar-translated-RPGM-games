@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (26,3)
+msgid "I will take your breath away."
+msgstr "سوف أحبس أنفاسكِ."
+
+#. ID 1, Page 2, Line 1, Pos (26,3)
+msgid ""
+"You place the plastic bag\n"
+"over his head."
+msgstr ""
+"وضعتِ الحقيبة البلاستيكية\n"
+"على رأسه."
+
+#. ID 1, Page 3, Line 1, Pos (26,3)
+msgid "You got a VHS"
+msgstr "حصلتِ على شريط فيديو"
+

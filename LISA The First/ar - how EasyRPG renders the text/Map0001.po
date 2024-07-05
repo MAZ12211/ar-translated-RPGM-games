@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 4, Pos (70,63)
+#. ID 10, Page 1, Line 4, Pos (73,64)
+#. ID 11, Page 1, Line 4, Pos (74,64)
+#. ID 12, Page 1, Line 4, Pos (72,63)
+#. ID 13, Page 1, Line 4, Pos (68,63)
+#. ID 14, Page 1, Line 4, Pos (67,64)
+#. ID 16, Page 1, Line 4, Pos (66,65)
+#. ID 18, Page 1, Line 4, Pos (65,66)
+msgid "Get back to your room..."
+msgstr "عودي إلى غرفتكِ..."
+
+#. ID 15, Page 1, Line 1, Pos (72,54)
+#. ID 21, Page 1, Line 1, Pos (92,17)
+msgid "It's locked."
+msgstr "مغلق."
+
+#. ID 17, Page 1, Line 4, Pos (65,65)
+#. ID 19, Page 1, Line 4, Pos (64,67)
+#. ID 20, Page 1, Line 4, Pos (67,63)
+msgid "What the hell are you doing? Get back to your room..."
+msgstr "ما الذي تفعلينه بحق الجحيم؟ عودي إلى غرفتكِ..."
+
+#. ID 22, Page 1, Line 1, Pos (95,20)
+msgid "He always keeps it locked..."
+msgstr "يبقيه مغلقاً دائماً."
+
+#. ID 23, Page 1, Line 1, Pos (46,23)
+msgid "The sheets are disgusting."
+msgstr "الملاءات مقززة."
+
+#. ID 24, Page 1, Line 1, Pos (37,23)
+msgid "This is a trash can."
+msgstr "مجرد سلة مهملات."
+
+#. ID 25, Page 1, Line 1, Pos (46,24)
+msgid "He's taken away everything..."
+msgstr "هو أخذ كل شيء..."
+
+#. ID 26, Page 1, Line 1, Pos (75,53)
+#. ID 27, Page 1, Line 1, Pos (76,53)
+#. ID 28, Page 1, Line 1, Pos (74,53)
+#. ID 31, Page 1, Line 1, Pos (90,25)
+msgid "?"
+msgstr "؟"
+
+#. ID 26, Page 1, Line 2, Pos (75,53)
+#. ID 31, Page 1, Line 2, Pos (90,25)
+msgid "???"
+msgstr "؟؟؟"
+

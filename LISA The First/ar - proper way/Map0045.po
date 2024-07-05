@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (9,11)
+msgid "Lisa..."
+msgstr "ليسا..."
+
+#. ID 1, Page 1, Line 5, Pos (9,11)
+msgid "Is that you?"
+msgstr "أهذه أنتِ؟"
+
+#. ID 1, Page 1, Line 7, Pos (9,11)
+msgid "Lisa I.. I'm sorRy"
+msgstr "ليسا أنا... أنا اسففة"
+
+#. ID 1, Page 1, Line 10, Pos (9,11)
+msgid "III'mmM soRRy..."
+msgstr "أأأننناا آسففففةةة..."
+
+#. ID 1, Page 1, Line 12, Pos (9,11)
+msgid "LiiiiisSSAAAAAAA....."
+msgstr "لييييسساااااااا....."
+
+#. ID 1, Page 1, Line 17, Pos (9,11)
+msgid ""
+"I Did'NT waaaaaa.... NNt\n"
+"Too LEEEave."
+msgstr ""
+"لا اررييد اننن..... أاغاااا\n"
+"ددرررر."
+
+#. ID 1, Page 1, Line 21, Pos (9,11)
+msgid "Liiiiiisssssaaaaa."
+msgstr "لييييسسساااااا."
+
+#. ID 1, Page 1, Line 23, Pos (9,11)
+msgid "I didddd'nt WANT to diiiEEE."
+msgstr "لم أردددد ان اممووتتتت."
+
+#. ID 1, Page 1, Line 25, Pos (9,11)
+msgid "Liisa, I looveEE YouU."
+msgstr "لييسا، أنا أحببببكككِ."
+
+#. ID 1, Page 1, Line 27, Pos (9,11)
+msgid "Doooon't gooooo!!"
+msgstr "لاااا تذهبيييين!!"
+
+#. ID 1, Page 1, Line 30, Pos (9,11)
+msgid "YOOu can't...."
+msgstr "لااا يمكنك...."
+
+#. ID 1, Page 1, Line 33, Pos (9,11)
+msgid "You can't run..."
+msgstr "لا يمكنكِ الهرب..."
+

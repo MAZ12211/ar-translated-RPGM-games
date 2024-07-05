@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 16, Page 1, Line 1, Pos (56,32)
+msgid "Banana.... Peel...."
+msgstr "قشرة.... موزة...."
+
+#. ID 16, Page 2, Line 1, Pos (56,32)
+msgid ""
+"I need that banana peel....\n"
+"Please..."
+msgstr ""
+"أريد تلك القشرة....\n"
+"أرجوكِ..."
+
+#. ID 16, Page 2, Line 3, Pos (56,32)
+msgid "You give him the peel."
+msgstr "أعطيتيه القشرة."
+
+#. ID 16, Page 2, Line 4, Pos (56,32)
+msgid "Thank you..."
+msgstr "شكراً لك..."
+
+#. ID 16, Page 2, Line 9, Pos (56,32)
+msgid "There's a napkin here."
+msgstr "ثمة منديلاً هنا."
+
+#. ID 16, Page 2, Line 10, Pos (56,32)
+msgid "You take the napkin."
+msgstr "أخذتِ المنديل."
+
+#. ID 17, Page 1, Line 1, Pos (37,9)
+#. ID 18, Page 1, Line 1, Pos (38,8)
+#. ID 19, Page 1, Line 1, Pos (39,9)
+#. ID 20, Page 1, Line 1, Pos (38,10)
+msgid "The weeds blocks the way."
+msgstr "تقف أعشاب ضارة في طريقكِ."
+
+#. ID 17, Page 2, Line 1, Pos (37,9)
+#. ID 18, Page 2, Line 1, Pos (38,8)
+#. ID 19, Page 2, Line 1, Pos (39,9)
+#. ID 20, Page 2, Line 1, Pos (38,10)
+msgid ""
+"You hack away with your\n"
+"razor."
+msgstr ""
+"قطعتِ بلا اكتراث\n"
+"بشفرتكِ."
+

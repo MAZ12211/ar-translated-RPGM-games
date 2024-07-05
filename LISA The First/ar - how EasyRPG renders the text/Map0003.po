@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 25, Page 1, Line 1, Pos (1,4)
+#. Contains choice at line 2 (2 options)
+msgid "You're tryin, to run out on me aren't you?..."
+msgstr "تحاولين أن تغادريني، ألستِ كذلك؟..."
+
+#. ID 25, Page 1, Line 2, Pos (1,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes.\n"
+"No."
+msgstr ""
+"نعم.\n"
+"لا."
+
+#. ID 25, Page 1, Line 4, Pos (1,4)
+#. ID 25, Page 1, Line 5, Pos (1,4)
+#. ID 25, Page 1, Line 6, Pos (1,4)
+msgid "..."
+msgstr "..."
+
+#. ID 25, Page 1, Line 7, Pos (1,4)
+msgid "You can't run forever."
+msgstr "لا يمكنكِ الهرب للأبد."
+
+#. ID 25, Page 1, Line 8, Pos (1,4)
+msgid "You're wasting your time."
+msgstr "أنتِ تضيعين وقتكِ."
+
+#. ID 25, Page 1, Line 14, Pos (1,4)
+msgid "Then go home coward."
+msgstr "عودي لبيتكِ إذن يا جبانة."
+
