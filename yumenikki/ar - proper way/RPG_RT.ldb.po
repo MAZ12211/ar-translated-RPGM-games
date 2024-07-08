@@ -21,7 +21,7 @@ msgstr "مادوتسوكي"
 #. ID 2
 msgctxt "items.name"
 msgid "Frog"
-msgstr "ضفدع                               "
+msgstr "ضفدع"
 
 #. ID 1
 #. ID 2
@@ -33,7 +33,7 @@ msgstr "به تحولت إلى ضفدع."
 #. ID 4
 msgctxt "items.name"
 msgid "Umbrella"
-msgstr "مظلة                                "
+msgstr "مظلة"
 
 #. ID 3
 #. ID 4
@@ -45,7 +45,7 @@ msgstr "به استخدمت المظلة."
 #. ID 6
 msgctxt "items.name"
 msgid "Hat & Scarf"
-msgstr "قبعة ووشاح                        "
+msgstr "قبعة ووشاح"
 
 #. ID 5
 #. ID 6
@@ -57,7 +57,7 @@ msgstr "به لبست قبعة ووشاحاً."
 #. ID 8
 msgctxt "items.name"
 msgid "Snow Woman"
-msgstr "امرأة ثلج                            "
+msgstr "امرأة ثلج"
 
 #. ID 7
 #. ID 8
@@ -69,7 +69,7 @@ msgstr "به مسخت إلى امرأة ثلج."
 #. ID 10
 msgctxt "items.name"
 msgid "Kitchen Knife"
-msgstr "سكين مطبخ                      "
+msgstr "سكين مطبخ"
 
 #. ID 9
 #. ID 10
@@ -81,7 +81,7 @@ msgstr "به تجهزت بسكين مطبخ."
 #. ID 12
 msgctxt "items.name"
 msgid "Eye Palm"
-msgstr "كف عين                            "
+msgstr "كف عين"
 
 #. ID 11
 #. ID 12
@@ -93,7 +93,7 @@ msgstr "به مسخت وصرت كف عين."
 #. ID 14
 msgctxt "items.name"
 msgid "Fatten"
-msgstr "بدانة                                 "
+msgstr "بدانة"
 
 #. ID 13
 #. ID 14
@@ -105,7 +105,7 @@ msgstr "به انتفخت وكبر حجمك."
 #. ID 16
 msgctxt "items.name"
 msgid "Midget"
-msgstr "قزامة                                 "
+msgstr "قزامة"
 
 #. ID 15
 #. ID 16
@@ -117,7 +117,7 @@ msgstr "به تقلصت وصغر حجمك."
 #. ID 18
 msgctxt "items.name"
 msgid "Flute"
-msgstr "مزمار                                 "
+msgstr "مزمار"
 
 #. ID 17
 #. ID 18
@@ -129,7 +129,7 @@ msgstr "به شهرت مزماراً."
 #. ID 20
 msgctxt "items.name"
 msgid "Neon"
-msgstr "نيون                                  "
+msgstr "نيون"
 
 #. ID 19
 #. ID 20
@@ -141,7 +141,7 @@ msgstr "به توهجت مثل لافتات النيون."
 #. ID 22
 msgctxt "items.name"
 msgid "Faceless Ghost"
-msgstr "شبح بلا وجه                      "
+msgstr "شبح بلا وجه"
 
 #. ID 21
 #. ID 22
@@ -153,7 +153,7 @@ msgstr "به تجسدت شبحاً بلا وجه."
 #. ID 24
 msgctxt "items.name"
 msgid "Severed Head"
-msgstr "رأس مقطوع                        "
+msgstr "رأس مقطوع"
 
 #. ID 23
 #. ID 24
@@ -165,7 +165,7 @@ msgstr "به صرت مجرد رأس مقطوع."
 #. ID 26
 msgctxt "items.name"
 msgid "Towel"
-msgstr "منشفة                             "
+msgstr "منشفة"
 
 #. ID 25
 #. ID 26
@@ -177,7 +177,7 @@ msgstr "به لقيت نفسك بمنشفة."
 #. ID 28
 msgctxt "items.name"
 msgid "Cat"
-msgstr "قطة                                  "
+msgstr "قطة"
 
 #. ID 27
 #. ID 28
@@ -189,7 +189,7 @@ msgstr "به نبتت علكي أذن وذيل قطة."
 #. ID 30
 msgctxt "items.name"
 msgid "Lamp"
-msgstr "مصباح                               "
+msgstr "مصباح"
 
 #. ID 29
 #. ID 30
@@ -201,7 +201,7 @@ msgstr "به تحولت إلى قنديل."
 #. ID 32
 msgctxt "items.name"
 msgid "Bicycle"
-msgstr "دراجة                                "
+msgstr "دراجة"
 
 #. ID 31
 #. ID 32
@@ -213,7 +213,7 @@ msgstr "به ركبت دراجة."
 #. ID 34
 msgctxt "items.name"
 msgid "Long Hair"
-msgstr "شعر طويل                         "
+msgstr "شعر طويل"
 
 #. ID 33
 #. ID 34
@@ -225,7 +225,7 @@ msgstr "به طلع من رأسك شعر طويل."
 #. ID 36
 msgctxt "items.name"
 msgid "Poo Hair"
-msgstr "شعر الروث                         "
+msgstr "شعر الروث"
 
 #. ID 35
 #. ID 36
@@ -237,7 +237,7 @@ msgstr "به طلع من رأسك شعر كالروث."
 #. ID 38
 msgctxt "items.name"
 msgid "Blonde"
-msgstr "شعر أشقر                         "
+msgstr "شعر أشقر"
 
 #. ID 37
 #. ID 38
@@ -249,7 +249,7 @@ msgstr "به طلع من رأسك شعر أشقر."
 #. ID 40
 msgctxt "items.name"
 msgid "Spirit Headband"
-msgstr "عصابة روحية                      "
+msgstr "عصابة روحية"
 
 #. ID 39
 #. ID 40
@@ -261,7 +261,7 @@ msgstr "به لبست على جبينك عصابة روحية."
 #. ID 42
 msgctxt "items.name"
 msgid "Witch"
-msgstr "ساحرة                              "
+msgstr "ساحرة"
 
 #. ID 41
 #. ID 42
@@ -273,7 +273,7 @@ msgstr "به تحولت إلى تجسد ساحرة."
 #. ID 44
 msgctxt "items.name"
 msgid "Oni"
-msgstr "مارد                                  "
+msgstr "مارد"
 
 #. ID 43
 #. ID 44
@@ -285,7 +285,7 @@ msgstr "به مسخت مارداً شريراً."
 #. ID 46
 msgctxt "items.name"
 msgid "Squish-Squish"
-msgstr "دبق-دبق                           "
+msgstr "دبق-دبق"
 
 #. ID 45
 #. ID 46
@@ -297,7 +297,7 @@ msgstr "به تحولت إلى كائن دبق لزج."
 #. ID 48
 msgctxt "items.name"
 msgid "Traffic Light"
-msgstr "إشارة مرور                         "
+msgstr "إشارة مرور"
 
 #. ID 47
 #. ID 48
@@ -308,7 +308,7 @@ msgstr "به تحولت لإشارة مرور."
 #. ID 57
 msgctxt "items.name"
 msgid "Tutorial"
-msgstr "شرح اللعبة                        "
+msgstr "شرح اللعبة"
 
 #. ID 57
 msgctxt "items.description"
@@ -649,23 +649,23 @@ msgstr ""
 
 msgctxt "terms.command_item"
 msgid "Effect"
-msgstr "تأثير                  "
+msgstr "تأثير"
 
 msgctxt "terms.menu_quit"
 msgid "Quit Game"
-msgstr "خروج                 "
+msgstr "خروج"
 
 msgctxt "terms.new_game"
 msgid "New Game"
-msgstr "بدء اللعبة          "
+msgstr "بدء اللعبة"
 
 msgctxt "terms.load_game"
 msgid "Dream Diary"
-msgstr "مفكرة الأحلام     "
+msgstr "مفكرة الأحلام"
 
 msgctxt "terms.exit_game"
 msgid "Quit"
-msgstr "خروج                "
+msgstr "خروج"
 
 msgctxt "terms.lvl_short"
 msgid "E"
@@ -693,11 +693,11 @@ msgstr "هل قررت الخروج؟"
 
 msgctxt "terms.yes"
 msgid "Yes"
-msgstr "نعم  "
+msgstr "نعم"
 
 msgctxt "terms.no"
 msgid "No"
-msgstr "لا    "
+msgstr "لا"
 
 msgctxt "terms.easyrpg_item_number_separator"
 msgid "default_term"
